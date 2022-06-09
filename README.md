@@ -6,7 +6,7 @@ More formally, the problem was to accurately classify 15k images from the <a hre
 
 As a result, the network attained 85-86% accuracy on the test dataset
 
-# Классификация изображений - Классификация Помещений
+# Классификация помещений на изображениях
 
 В этом ноутбуке я натренировал нейросеть, способную определять тип помещения на фотографии. 
 
